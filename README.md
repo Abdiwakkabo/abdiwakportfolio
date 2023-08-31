@@ -1,6 +1,6 @@
 # Front-End Developer Portfolio
 
-👋 Hey there! I'm [Your Name], a Front-End Developer who loves crafting engaging web experiences. Welcome to my GitHub portfolio where I showcase my skills and projects.
+👋 Hey there! I'm [Abdiwak Kabo], a Front-End Developer who loves crafting engaging web experiences. Welcome to my GitHub portfolio where I showcase my skills and projects.
 
 ## Skills
 
